@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCoRoutines</string>
+    <string name="coroutine_example">Coroutine Example</string>
+</resources>
